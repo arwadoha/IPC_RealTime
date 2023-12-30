@@ -1,0 +1,14 @@
+minArrivalRate: 0.5
+maxArrivalRate: 2.0
+minShoppingTime: 10
+maxShoppingTime: 60
+cashierBehaviorDecayRate: 0.01
+maxCashierItemsPerScan: 10
+minCashierScanTime: 0.5
+maxCashierScanTime: 2.0
+
+Items:
+milk 2.5 50
+egg 1.0 50
+orange 3.0 50
+potato 3.0 30
